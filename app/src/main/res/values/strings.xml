@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Nova Medic</string>
+    <string name="regitro">Registro</string>
+    <string name="formulario">Formulario</string>
+    <string name="listado">Listado</string>
+    <string name="DNI">DNI</string>
+    <string name="nombre">Nombre</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sexo">Sexo :</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="deporte">Deporte</string>
+    <string name="pintura">Pintura</string>
+    <string name="otro">Otro</string>
+    <string name="ingresehobbie">Ingrese otro hobby</string>
+    <string name="acceder">Acceder</string>
+    <string name="cuestionario">CUESTIOANRIO COVID-19</string>
+    <string name="marca">1. Marca tus síntomas.</string>
+    <string name="disminucion">Disminución del gusto o del olfato</string>
+    <string name="tos">Tos</string>
+    <string name="garganta">Dolor de garganta</string>
+    <string name="nasal">Congestion nasal</string>
+    <string name="fiebre">Fiebre</string>
+    <string name="ninguno">Ninguno</string>
+    <string name="tienesfiebre">2. ¿Tienes fiebre mayor a 37 grados?</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="vivessolo">3. ¿Vives solo en casa?</string>
+    <string name="vivesconadulto">4. ¿Vives con un adulto mayor en casa?</string>
+    <string name="servicios">5. ¿Cuentas con los siguientes servicios en casa?</string>
+    <string name="luz">Luz</string>
+    <string name="agua">Agua</string>
+    <string name="internet">Internet</string>
+    <string name="cable">Cable</string>
+    <string name="resolver">Resolver</string>
+    <string name="listmedicos">Medicos Registrados</string>
+    <string name="listformulario">Formularios Registrados</string>
+    <string name="errorDNI">Ingrese un DNI</string>
+    <string name="errorNombre">Ingrese un nombre</string>
+    <string name="errorApellido">Ingrese un apellido</string>
+    <string name="errorEmail">Ingrese un correo correo</string>
+    <string name="errorPassword">Ingrese una contraseña</string>
+
+</resources>
